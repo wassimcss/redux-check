@@ -1,0 +1,29 @@
+.App{
+  text-align: center;
+  margin-top: 50px;
+  
+}
+
+.done {
+  text-decoration: line-through;
+}
+body {
+  background-color:#DDD;
+  font-size: 20px;
+}
+
+
+.done
+{
+  text-decoration: line-through;
+}
+input {
+  height: 40px;
+  width:600px;
+}
+button
+{
+  height : 40px;
+  width : 150px
+}
+
